@@ -1,13 +1,13 @@
 ---json
 {
-    "title": "Nguyễn Thị Phương Uyên ",
-    "slug": "nguyen-thi-phuong-uyen-",
+    "title": "Võ Văn Tự Hiến ",
+    "slug": "bac-si/vo-van-tu-hien",
     "description": "",
     "layout": "bac-si.html",
-    "date": "2016-07-23 11:54:27 +07:00",
+    "date": "2016-07-25 21:00:05 +07:00",
     "permalink": true,
     "avatar": "http://nyulangone.org/images/doctors/f/fisher/1306860663/jason-c-fisher-thumb.jpg",
-    "sex": "Nữ",
+    "sex": "Nam",
     "certificate_type": "",
     "certificate_code": "",
     "certificate_number": "",
@@ -16,15 +16,15 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00017/SYTGPHĐ ",
-            "Phạm vi hoạt động: Phòng nha BS. Nguyễn Thị Phương Uyên"
+            "Chứng chỉ hành nghề số 00106/SYTGPHĐ <br /> Ngày cấp :21.05.2013",
+            "Phạm vi hoạt động: Phòng khám Nha Việt"
         ]
     },
     "chuyen-khoa": [],
     "dia-chi": {
         "tinh": "ho-chi-minh",
         "quan-huyen": "quan-1",
-        "chi-tiet": "215 Đinh Tiên Hoàng, P. Tân Định, Q. 1, TP.HCM "
+        "chi-tiet": "125 Lê Thị Riêng, P. Bến Thành, Q. 1, TP.HCM "
     },
     "danh-sach-phong-kham": [
         {
@@ -46,7 +46,7 @@
     "like": "100",
     "type": "",
     "gio-lam-viec": [
-        "T2 - CN: 8g30 - 20g30 "
+        "T2 - T7: 8g - 12g, 13g30 - 17g30"
     ],
     "so-dien-thoai": "73099939",
     "nghenghiep": "Bác sĩ",
@@ -63,8 +63,8 @@
             "value": "nha-khoa"
         },
         {
-            "display": "Nguyễn Thị Phương Uyên ",
-            "value": "nguyen-thi-phuong-uyen"
+            "display": "Võ Văn Tự Hiến  ",
+            "value": "vo-van-tu-hien"
         }
     ]
 }
