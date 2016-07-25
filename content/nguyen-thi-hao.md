@@ -1,7 +1,7 @@
 ---json
 {
     "title": "Nguyễn Thị Hảo",
-    "slug": "nguyen-thi-hao",
+    "slug": "bac-si/nguyen-thi-hao",
     "description": "",
     "layout": "bac-si.html",
     "date": "2016-07-23 11:18:26 +07:00",
