@@ -1,7 +1,7 @@
 ---json
 {
     "title": "Phòng khám BS. Nguyễn Duy Đăng ",
-    "slug": "phong-kham/phong-kham-bs-nguyen-duy-dang",
+    "slug": "phong-kham-bs-nguyen-duy-dang",
     "filter": [
         {
             "display": "Răng hàm mặt",

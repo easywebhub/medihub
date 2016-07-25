@@ -1,7 +1,7 @@
 ---json
 {
     "title": "Phòng nha Bác sĩ La Thành Hưng",
-    "slug": "phong-kham/phong-nha-bac-si-la-thanh-hung",
+    "slug": "phong-nha-bac-si-la-thanh-hung",
     "filter": [
         {
             "display": "Răng hàm mặt",
