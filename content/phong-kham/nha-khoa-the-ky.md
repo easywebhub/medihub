@@ -1,6 +1,6 @@
 ---json
 {
-    "title": "Nha Khoa Thế Kỹ",
+    "title": "Nha Khoa Thế Kỷ",
     "slug": "nha-khoa-the-ky",
     "filter": [
         {

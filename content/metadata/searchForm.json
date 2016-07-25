@@ -83,6 +83,11 @@
        "loai" : "bac-si"
     },
     {
+       "ten" :	"BS  Nguyễn Duy Đăng  ",
+       "name" : "nguyen-duy-dang",
+       "loai" : "bac-si"
+    },
+    {
        "ten" :	"Phòng khám Nha khoa Kỹ Thuật Số",
        "name" : "phong-kham-nha-khoa-ky-thuat-so",
        "loai" : "phong-kham"
@@ -90,6 +95,11 @@
      {
        "ten" :	"Nha khoa Thế Kỷ",
        "name" : "nha-khoa-the-ky",
+       "loai" : "phong-kham"
+    },
+     {
+       "ten" :	"Phòng nha BS. La Thành Hưng",
+       "name" : "nha-khoa-la-thanh-hung",
        "loai" : "phong-kham"
     }
   ]
