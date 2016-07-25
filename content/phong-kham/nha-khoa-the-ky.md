@@ -1,7 +1,7 @@
 ---json
 {
-    "title": "Phòng khám Nha Khoa Kỹ Thuật Số",
-    "slug": "phong-kham-nha-khoa-ky-thuat-so",
+    "title": "Nha Khoa Thế Kỹ",
+    "slug": "nha-khoa-the-ky",
     "filter": [
         {
             "display": "Răng hàm mặt",
@@ -19,8 +19,8 @@
         "http://upload2.webbnc.vn/media/163/Khuyen-mai-Nha-khoa-The-Ky.jpg"
     ],
     "certificate_type": "SYTGPHĐ",
-    "certificate_code": "00016/SYTGPHĐ",
-    "certificate_number": "00016",
+    "certificate_code": "SYTGPHĐ",
+    "certificate_number": "00148/SYTGPHĐ",
     "info": {
         "chuyen-khoa": [
             "Răng hàm mặt"
@@ -74,7 +74,7 @@
     ],
     "danh-sach-bac-si": [
         {
-            "slug": "nguyen-thi-hao"
+            "slug": "truong-hoang-bao"
         }
     ],
     "chuyen-dieu-tri": [
