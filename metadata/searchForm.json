@@ -72,9 +72,24 @@
        "name" : "vo-van-tu-hien",
        "loai" : "bac-si"
     },
+       {
+       "ten" :	" BS La Thành Hưng  ",
+       "name" : "la-thanh-hung",
+       "loai" : "bac-si"
+    },
+       {
+       "ten" :	"BS Trương Hoàng Bảo  ",
+       "name" : "truong-hoang-bao",
+       "loai" : "bac-si"
+    },
     {
        "ten" :	"Phòng khám Nha khoa Kỹ Thuật Số",
        "name" : "phong-kham-nha-khoa-ky-thuat-so",
+       "loai" : "phong-kham"
+    },
+     {
+       "ten" :	"Nha khoa Thế Kỷ",
+       "name" : "nha-khoa-the-ky",
        "loai" : "phong-kham"
     }
   ]
