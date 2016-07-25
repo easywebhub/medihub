@@ -67,6 +67,11 @@
        "name" : "nguyen-ngoc-duy",
        "loai" : "bac-si"
     },
+        {
+       "ten" :	"Võ Văn Tự Hiến ",
+       "name" : "vo-van-tu-hien",
+       "loai" : "bac-si"
+    },
     {
        "ten" :	"Phòng khám Nha khoa Kỹ Thuật Số",
        "name" : "phong-kham-nha-khoa-ky-thuat-so",
