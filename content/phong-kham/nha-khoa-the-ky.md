@@ -57,7 +57,6 @@
                 "http://upload2.webbnc.vn/media/163/Nha-khoa-The-Ky-khuyen-mai.jpg",
                 "http://upload2.webbnc.vn/media/163/Khuyen-mai-Nha-khoa-The-Ky.jpg"
             ],
-            "dich-vu": "Niềng răng, Nhổ răng, Trám răng, Tẩy trằng răng bằng thuốc, Tẩy trằng răng cấp tốc, Đánh bóng răng, Trồng răng implant, Viêm nha chu, Viêm tủy răng ",
             "dia-chi": {
                 "tinh": "HCM",
                 "quan-huyen": "quan-1",
