@@ -29,7 +29,7 @@
             "Số giấy phép :00148/SYTGPHĐ <br /> Ngày cấp : 25.06.2013"
         ]
     },
-    "dich-vu": "Niềng răng, Nhổ răng, Trám răng, Tẩy trằng răng bằng thuốc, Tẩy trằng răng cấp tốc, Đánh bóng răng, Trồng răng implant, Viêm nha chu, Viêm tủy răng ",
+    "dich-vu": "",
     "gia-tien": "100.000-1.000.000",
     "like": "",
     "type": "",
