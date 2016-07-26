@@ -21,8 +21,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00108/SYTGPHĐ <br> Ngày cấp: 21.05.2013",
-            "Phạm vi hoạt động: Phòng nha BS. La Thành Hưng"
+            "Chứng chỉ hành nghề số 00108/SYTGPHĐ <br> Ngày cấp: 21.05.2013"
         ]
     },
     "dich-vu": "Niềng răng, Nhổ răng, Trám răng, Tẩy trằng răng bằng thuốc, Tẩy trằng răng cấp tốc, Đánh bóng răng, Trồng răng implant, Viêm nha chu, Viêm tủy răng ",
