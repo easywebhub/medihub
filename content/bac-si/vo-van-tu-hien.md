@@ -42,7 +42,7 @@
         " Viêm nha chu",
         " Viêm tủy răng "
     ],
-    "gia-tien": "100.000-1.000.000",
+    "gia-tien": "100.000 - 1.000.000",
     "like": "100",
     "type": "",
     "gio-lam-viec": [
