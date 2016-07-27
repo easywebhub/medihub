@@ -16,7 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00196/SYTGPHĐ ,ngày cấp :24.07.2013"
+            "Chứng chỉ hành nghề số 00196/SYTGPHĐ ,ngày cấp : 24.07.2013"
         ]
     },
     "chuyen-khoa": [],
