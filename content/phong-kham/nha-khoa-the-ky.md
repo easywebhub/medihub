@@ -62,7 +62,7 @@
                 "quan-huyen": "quan-1",
                 "chi-tiet": "96A Trần Hưng Đạo, P. Phạm Ngũ Lão, Q. 1, TP.HCM"
             },
-            "gia-tien": "100.000-1.000.000",
+            "gia-tien": "100.000 - 1.000.000",
             "like": 100,
             "type": "nha-tai-tro",
             "gio-lam-viec": [
