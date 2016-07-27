@@ -16,8 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00016/SYTGPHĐ",
-            "Phạm vi hoạt động: Phòng khám  Nha Khoa Kỹ thuật Số"
+            "Chứng chỉ hành nghề số 00016/SYTGPHĐ, ngày cấp: 11.01.2013"
         ]
     },
     "chuyen-khoa": [],
