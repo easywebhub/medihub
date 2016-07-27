@@ -16,8 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00108/SYTGPHĐ <br> Ngày cấp: 21.05.2013",
-            "Phạm vi hoạt động: Phòng nha BS. La Thành Hưng"
+            "Chứng chỉ hành nghề số 00108/SYTGPHĐ, ngày cấp: 21.05.2013"
         ]
     },
     "chuyen-khoa": [],
