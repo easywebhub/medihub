@@ -6,6 +6,10 @@
         {
             "display": "Răng hàm mặt",
             "value": "rang-ham-mat"
+        },
+        {
+            "display": "nha-khoa-ko-se-i-kai",
+            "value": "nha-khoa-ko-se-i-kai"
         }
     ],
     "description": "After graduating from West Virginia University Medical School, Dr. Jonathon Alex completed a two-year fellowship in sports medicine at Akron Children’s Hospital. During his training at Akron, Dr. Jonathon Alex was team physician for the University of Akron and Walsh University.",
