@@ -63,7 +63,7 @@
                 "quan-huyen": "quan-1",
                 "chi-tiet": "300 Phạm Ngũ Lão, P. Nguyễn Cư Trinh, Q.1, TP.HCM"
             },
-            "gia-tien": "100.000-1.000.000",
+            "gia-tien": "100.000 - 1.000.000",
             "like": 100,
             "type": "nha-tai-tro",
             "gio-lam-viec": [
