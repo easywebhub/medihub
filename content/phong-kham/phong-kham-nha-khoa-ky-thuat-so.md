@@ -26,7 +26,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Số giấy phép : 00016/SYTGPHĐ <br /> Ngày cấp : 11.01.2013"
+            "Số giấy phép : 00016/SYTGPHĐ, ngày cấp : 11.01.2013"
         ]
     },
     "dich-vu": "Niềng răng, Nhổ răng, Trám răng, Tẩy trằng răng bằng thuốc, Tẩy trằng răng cấp tốc, Đánh bóng răng, Trồng răng implant, Viêm nha chu, Viêm tủy răng ",
