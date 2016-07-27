@@ -26,7 +26,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Số giấy phép :00148/SYTGPHĐ <br /> Ngày cấp : 25.06.2013"
+            "Số giấy phép :00148/SYTGPHĐ, ngày cấp : 25.06.2013"
         ]
     },
     "dich-vu": "",
