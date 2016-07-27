@@ -16,8 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00182/SYTGPHĐ  <br /> Ngày cấp : 09.07.2013",
-            "Phạm vi hoạt động: Nha khoa KO.SE.I.KAI "
+            "Chứng chỉ hành nghề số 00182/SYTGPHĐ, ngày cấp : 09.07.2013"
         ]
     },
     "chuyen-khoa": [],
