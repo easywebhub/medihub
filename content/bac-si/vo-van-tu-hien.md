@@ -16,8 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00106/SYTGPHĐ <br /> Ngày cấp :21.05.2013",
-            "Phạm vi hoạt động: Phòng khám Nha Việt"
+            "Chứng chỉ hành nghề số 00106/SYTGPHĐ, ngày cấp :21.05.2013"
         ]
     },
     "chuyen-khoa": [],
