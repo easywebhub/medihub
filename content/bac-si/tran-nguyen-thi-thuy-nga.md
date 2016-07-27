@@ -16,8 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00174/SYTGPHĐ  <br /> Ngày cấp :09.07.2013",
-            "Phạm vi hoạt động: Phòng nha BS. Trần Nguyên Thị Thùy Nga "
+            "Chứng chỉ hành nghề số 00174/SYTGPHĐ, ngày cấp :09.07.2013"
         ]
     },
     "chuyen-khoa": [],
