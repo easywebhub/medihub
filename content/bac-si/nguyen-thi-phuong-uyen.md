@@ -16,8 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00017/SYTGPHĐ ",
-            "Phạm vi hoạt động: Phòng nha BS. Nguyễn Thị Phương Uyên"
+            "Chứng chỉ hành nghề số 00017/SYTGPHĐ, ngày cấp: 11.01.2013 "
         ]
     },
     "chuyen-khoa": [],
