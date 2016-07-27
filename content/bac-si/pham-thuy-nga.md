@@ -20,7 +20,7 @@
             "Phòng khám được yêu thích nhất năm 2016"
         ],
         "giay-phep": [
-            "Số giấy phép : 00001/SYT-GPHĐ <br /> Ngày cấp : 27-08-2012"
+            "Số giấy phép : 00001/SYT-GPHĐ, ngày cấp : 27-08-2012"
         ]
     },
     "chuyen-khoa": [],
