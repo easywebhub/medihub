@@ -34,7 +34,7 @@
         ]
     },
     "dich-vu": "Niềng răng, Nhổ răng, Trám răng, Tẩy trằng răng bằng thuốc, Tẩy trằng răng cấp tốc, Đánh bóng răng, Trồng răng implant, Viêm nha chu, Viêm tủy răng ",
-    "gia-tien": "100.000-1.000.000",
+    "gia-tien": "100.000 - 1.000.000",
     "like": "",
     "type": "",
     "gio-lam-viec": [
