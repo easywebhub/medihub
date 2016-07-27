@@ -16,8 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00148/SYTGPHĐ <br> Ngày cấp: 25.06.2013",
-            "Phạm vi hoạt động: Nha khoa Thế Kỷ "
+            "Chứng chỉ hành nghề số 00148/SYTGPHĐ, ngày cấp: 25.06.2013"
         ]
     },
     "chuyen-khoa": [],
