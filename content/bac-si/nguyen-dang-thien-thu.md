@@ -16,8 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00196/SYTGPHĐ  <br /> Ngày cấp :24.07.2013",
-            "Phạm vi hoạt động: Phòng khám BS. Nguyễn Đặng Thiên Thư "
+            "Chứng chỉ hành nghề số 00196/SYTGPHĐ  <br /> Ngày cấp :24.07.2013"
         ]
     },
     "chuyen-khoa": [],
