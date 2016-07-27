@@ -104,6 +104,11 @@
             "ten": " Nha khoa KO.SE.I.KAI ",
             "name": "nha-khoa-ko-se-i-kai",
             "loai": "phong-kham"
+        },
+        {
+            "ten": " Trần Nguyễn Thị Thúy Nga ",
+            "name": "tran-nguyen-thi-thuy-nga",
+            "loai": "bac-si"
         }
     ]
 }
