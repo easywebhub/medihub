@@ -16,8 +16,7 @@
             "Răng hàm mặt"
         ],
         "giay-phep": [
-            "Chứng chỉ hành nghề số 00053/SYTGPHĐ <br /> Ngày cấp : 14.03.2013",
-            "Phạm vi hoạt động: Phòng nha BS. Nguyễn Ngọc Duy"
+            "Chứng chỉ hành nghề số 00053/SYTGPHĐ, ngày cấp : 14.03.2013"
         ]
     },
     "chuyen-khoa": [],
