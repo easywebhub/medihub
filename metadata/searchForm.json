@@ -114,6 +114,16 @@
             "ten": " BS Trương Thị Thùy Trinh ",
             "name": "truong-thi-thuy-trinh",
             "loai": "bac-si"
+        },
+        {
+            "ten": " Nha Khoa Hoa Hồng ",
+            "name": "nha-khoa-hoa-hong",
+            "loai": "phong-kham"
+        },
+        {
+            "ten": " Nha khoa Thẩm mỹ Ava ",
+            "name": "nha-khoa-tham-my-ava",
+            "loai": "phong-kham"
         }
     ]
 }
