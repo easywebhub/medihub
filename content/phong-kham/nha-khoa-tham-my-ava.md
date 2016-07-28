@@ -80,10 +80,13 @@
             "slug": "ngo-thi-hong-thanh"
         },
         {
-            "slug": "nguyen-thai-thao-nguyen"
+            "slug": "nguyen-thanh-tong"
         },
         {
-            "slug": "bui-van-lam"
+            "slug": "nguyen-dieu-lien-khanh"
+        },
+        {
+            "slug": "hoang-le-bich-thuan"
         }
     ],
     "chuyen-dieu-tri": [
