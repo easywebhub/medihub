@@ -52,7 +52,7 @@
     },
     "danh-sach-phong-kham": [
         {
-            "title": "Phòng khám  Nha khoa Thế Kỷ",
+            "title": " Nha khoa Hoa Hồng ",
             "list-image": [
                 "http://nhakhoatotnhat.com/upload/image/tphcm/quan1/RoseDentalCtilic/nha-khoa-rose-dentel-clinic-1.jpg",
                 "http://nhakhoatotnhat.com/upload/image/tphcm/quan1/RoseDentalCtilic/nha-khoa-rose-dentel-clinic-2.jpg"
