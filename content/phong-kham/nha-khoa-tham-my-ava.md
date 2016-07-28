@@ -54,7 +54,7 @@
     },
     "danh-sach-phong-kham": [
         {
-            "title": "Phòng khám  Nha khoa Thế Kỷ",
+            "title": "Nha khoa Thẩm mỹ Ava",
             "list-image": [
                 "http://www.avadental.com.vn/images/stories/BV-AVA.jpg",
                 "http://www.avadental.com.vn/images/banners/phong-mo.jpg",
