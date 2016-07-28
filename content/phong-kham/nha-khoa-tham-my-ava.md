@@ -77,7 +77,7 @@
     ],
     "danh-sach-bac-si": [
         {
-            "slug": "ngo-thi-hong-thanh"
+            "slug": "ngo-thi-hong-hanh"
         },
         {
             "slug": "nguyen-thanh-tong"
