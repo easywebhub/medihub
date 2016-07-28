@@ -77,7 +77,13 @@
     ],
     "danh-sach-bac-si": [
         {
-            "slug": "truong-hoang-bao"
+            "slug": "ngo-thi-hong-thanh"
+        },
+        {
+            "slug": "nguyen-thai-thao-nguyen"
+        },
+        {
+            "slug": "bui-van-lam"
         }
     ],
     "chuyen-dieu-tri": [
